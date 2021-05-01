@@ -1,0 +1,23 @@
+{
+  "name": "chefs-vision",
+  "version": "1.0.0",
+  "description": "recipe search application",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build --no-minify index.html --dist-dir ./dist"
+  },
+  "author": "Chandresh Sharma",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.0.0-beta.1",
+    "sass": "^1.32.12"
+  },
+  "dependencies": {
+    "@babel/plugin-proposal-class-properties": "^7.13.0",
+    "@babel/plugin-proposal-private-methods": "^7.13.0",
+    "core-js": "^3.11.0",
+    "fractional": "^1.0.0",
+    "regenerator-runtime": "^0.13.7"
+  }
+}
