@@ -4,3 +4,4 @@ A simple application to check food recipes, ingredients search with keywords suc
 Created in vanilla js with parcel as package manager.
 
 # visit
+https://chefs-vision-forkify.netlify.app/
